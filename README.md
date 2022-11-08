@@ -23,3 +23,4 @@ Assignments for "Math Methods for Machine Learning"
 ## Lab 4 (DTs):
 - Decision Tree Class from scratch (best spliting, gini/entropy calculation, stop conditions checking, etc)
 - Random Forest Class from scratch (bootstrap sampling, feature importance, etc)
+- Label Encoder, One Hot Encoder and Target Encoder for categorial variables
