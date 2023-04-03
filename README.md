@@ -43,6 +43,6 @@ Assignments for "Math Methods for Machine Learning"
 - Simple Convolutional Net
 
 # Useful Resources
-## [Yandex Handbook] (https://academy.yandex.ru/handbook/ml_
-## [ML by Konstantin Vorontsov] (http://www.machinelearning.ru/wiki)
-## [Exam by me] (https://orange-appeal-0aa.notion.site/719012712add441295e642aba761e36e)
+## [Yandex Handbook](https://academy.yandex.ru/handbook/ml)
+## [ML by Konstantin Vorontsov](http://www.machinelearning.ru/wiki)
+## [Exam by me](https://orange-appeal-0aa.notion.site/719012712add441295e642aba761e36e)
